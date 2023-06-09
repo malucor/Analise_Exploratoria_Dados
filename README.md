@@ -8,6 +8,7 @@ The Loggi Benchmark for Urban Deliveries (BUD) is a GitHub repository with data 
 In this project, data related to the Federal District were analyzed.
 
 NOTE: The data were taken from a notebook with Linux operating system; to work on Windows, you may need to make some modifications
+
 Link to Kaggle notebook: [Exploratory Data Analysis in Python](https://www.kaggle.com/code/malucor/aed-python-ebac)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -20,4 +21,5 @@ O Loggi Benchmark for Urban Deliveries (BUD) é um repositório do GitHub com da
 Nesse projeto, foram analisados dados relacionados ao Distrito Federal.
 
 OBS: Os dados foram retirados de um notebook com sistema operacional Linux; para funcionar em Windows, talvez seja necessário fazer algumas modificações
+
 Link para o notebook no Kaggle: [Análise Exploratória de Dados em Python](https://www.kaggle.com/code/malucor/aed-python-ebac)
